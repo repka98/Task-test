@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+<head>
+ <meta charset="utf-8">
+ <title>Пример извлечения данных JSON в Angular.js</title>
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
+ <script>
+  var app = angular.module('myApp', []);
+  app.controller('myCtrl', function ($scope, $http){
+    $http.get('employees-table.json').success(function(data) {
+      $scope.employees = data;
+    });
+  });
+ </script>
+</head>
+<body ng-controller="myCtrl">
+  <h2>Пример извлечения данных JSON в Angular.js</h2>
+  <table class="table table-striped">
+   <tr>
+    <th>Код</th>
+    <th>Страна</th>
+    <th>Население</th>
+   </tr>
+   <tr ng-repeat="employee in employees | orderBy: 'code' ">
+    <td>{{employee.code}}</td>
+    <td>{{employee.name}}</td>
+    <td>{{employee.position}}</td>
+   </tr>
+  </table>
+</body>
+</html>

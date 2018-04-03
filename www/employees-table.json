@@ -1,0 +1,484 @@
+[
+  {
+    "code": "1",
+    "name": "Борисюк Самсон Андриянович",
+    "telephone": "4000",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "2",
+    "name": "Ярусова Бронислава Варфоломеевна",
+    "telephone": "975593",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "3",
+    "name": "Блатов Григорий Панкратиевич",
+    "telephone": "9121286",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "4",
+    "name": "Кирьянова Дарья Виталиевна",
+    "telephone": "6754",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "5",
+    "name": "Блатов Григорий Панкратиевич",
+    "telephone": "3254",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "6",
+    "name": "Таттар Диана Арсентиевна",
+    "telephone": "986952",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "7",
+    "name": "Пичушкин Назар Анатолиевич",
+    "telephone": "968000",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "8",
+    "name": "Ожогина Вера Геннадиевна",
+    "telephone": "3068161",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "9",
+    "name": "Якин Карп Куприянович",
+    "telephone": "",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "10",
+    "name": "Ведерникова Валентина Остаповна",
+    "telephone": "41343201",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "11",
+    "name": "Прудников Павел Левович",
+    "telephone": "7881",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "12",
+    "name": "Малафеева Галина Руслановна",
+    "telephone": "205000",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "13",
+    "name": "Корнилов Аскольд Михеевич",
+    "telephone": "1515754",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "14",
+    "name": "Ахтемирова Таисия Михеевна",
+    "telephone": "1566",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "15",
+    "name": "Кузанов Тимур Серафимович",
+    "telephone": "6711",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "16",
+    "name": "Осенныха Клара Афанасиевна",
+    "telephone": "303512",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "17",
+    "name": "Каравашкин Емельян Макарович",
+    "telephone": "590000",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "18",
+    "name": "Яшкова Марта Денисовна",
+    "telephone": "85653",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "19",
+    "name": "Мажулин Еремей Касьянович",
+    "telephone": "56118464",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "20",
+    "name": "Марченко Арина Назаровна",
+    "telephone": "0403000",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "21",
+    "name": "Коломийцев Борислав Евгениевич",
+    "telephone": "6241811",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "22",
+    "name": "Ерхова Василиса Вацлавовна",
+    "telephone": "148785",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "23",
+    "name": "Беломестнов Антип Эмилевич",
+    "telephone": "38004",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "24",
+    "name": "Суворина Татьяна Родионовна",
+    "telephone": "863117",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "25",
+    "name": "Сагадеев Николай Эрнестович",
+    "telephone": "056010",
+    "position": "prog",
+    "positionname": "Программист"
+  },
+  {
+    "code": "26",
+    "name": "Сытникова Яна Марковна",
+    "telephone": "450",
+    "position": "manager"
+  },
+  {
+    "code": "27",
+    "name": "Трутнев Мир Онисимович",
+    "telephone": "5365",
+    "position": "manager"
+  },
+  {
+    "code": "28",
+    "name": "Ященко Алла Радионовна",
+    "telephone": "95027",
+    "position": "manager"
+  },
+  {
+    "code": "29",
+    "name": "Гарин Кондрат Назарович",
+    "telephone": "947418",
+    "position": "manager"
+  },
+  {
+    "code": "30",
+    "name": "Астанкова Майя Соломоновна",
+    "telephone": "8012",
+    "position": "manager"
+  },
+  {
+    "code": "31",
+    "name": "Леваневский Иван Егорович",
+    "telephone": "01103330",
+    "position": "manager"
+  },
+  {
+    "code": "32",
+    "name": "Холодова Валерия Игоревна",
+    "telephone": "01790",
+    "position": "manager"
+  },
+  {
+    "code": "33",
+    "name": "Бобрик Сергей Климентович",
+
+    "position": "manager"
+  },
+  {
+    "code": "34",
+    "name": "Киселёва Аза Моисеевна",
+    "position": "manager",
+    "telephone": "99847"
+  },
+  {
+    "code": "35",
+    "name": "Мясников Владлен Никифорович",
+    "telephone": "029307",
+    "position": "manager"
+  },
+  {
+    "code": "36",
+    "name": "Самошина Эмма Данилевна",
+    "telephone": "685000",
+    "position": "manager"
+  },
+  {
+    "code": "37",
+    "name": "Кушнарёв Бронислав Олегович",
+    "telephone": "14522",
+    "position": "manager"
+  },
+  {
+    "code": "38",
+    "name": "Янаева Мария Егоровна",
+    "telephone": "3679000",
+    "position": "manager"
+  },
+  {
+    "code": "39",
+    "name": "Эмский Гаврила Мечиславович",
+    "telephone": "28",
+    "position": "manager"
+  },
+  {
+    "code": "40",
+    "name": "Дьяченко Вероника Наумовна",
+    "telephone": "0916439",
+    "position": "manager"
+  },
+  {
+    "code": "41",
+    "name": "Курдиков Герасим Игоревич",
+    "telephone": "844927",
+    "position": "manager"
+  },
+  {
+    "code": "42",
+    "name": "Толоконская Ирина Максимовна",
+    "telephone": "039126",
+    "position": "manager"
+  },
+  {
+    "code": "43",
+    "name": "Розенбах Евграф Семенович",
+    "telephone": "581000",
+    "position": "manager"
+  },
+  {
+    "code": "44",
+    "name": "Щетинина Александра Алексеевна",
+    "telephone": "1058798",
+    "position": "manager"
+  },
+  {
+    "code": "45",
+    "name": "Чернобровин Давид Брониславович",
+    "telephone": "1388",
+    "position": "manager"
+  },
+  {
+    "code": "46",
+    "name": "Талалихина Зоя Игнатиевна",
+    "telephone": "6746491",
+    "position": "manager"
+  },
+  {
+    "code": "47",
+    "name": "Чибисов Савелий Савелиевич",
+    "telephone": "9294149",
+    "position": "manager"
+  },
+  {
+    "code": "48",
+    "name": "Курганова Наталья Платоновна",
+    "telephone": "330044000",
+    "position": "manager"
+  },
+  {
+    "code": "49",
+    "name": "Дуболазов Прокл Федосиевич",
+    "telephone": "7790000",
+    "position": "manager"
+  },
+  {
+    "code": "50",
+    "name": "Юматова Любовь Брониславовна",
+    "telephone": "516220",
+    "position": "manager"
+  },
+  {
+    "code": "51",
+    "name": "Чалый Харитон Юриевич",
+    "telephone": "1423000",
+    "position": "accountant"
+  },
+  {
+    "code": "52",
+    "name": "Кочкорбаева Ефросинья Елисеевна",
+    "telephone": "08659",
+    "position": "accountant"
+  },
+  {
+    "code": "53",
+    "name": "Успенский Иосиф Мирославович",
+    "telephone": "41766",
+    "position": "accountant"
+  },
+  {
+    "code": "54",
+    "name": "Лягушкина Ева Мартыновна",
+    "telephone": "500",
+    "position": "accountant"
+  },
+  {
+    "code": "55",
+    "name": "Железнов Игорь Севастьянович",
+    "telephone": "102677",
+    "position": "accountant"
+  },
+  {
+    "code": "56",
+    "name": "Сотова Инна Ивановна",
+    "telephone": "0476000",
+    "position": "accountant"
+  },
+  {
+    "code": "57",
+    "name": "Наливкин Никифор Ростиславович",
+    "telephone": "1802257",
+    "position": "accountant"
+  },
+  {
+    "code": "58",
+    "name": "Федотова Стела Рюриковна",
+    "telephone": "40528",
+    "position": "accountant"
+  },
+  {
+    "code": "59",
+    "name": "Скворцов Мирослав Изяславович",
+    "telephone": "484000",
+    "position": "accountant"
+  },
+  {
+    "code": "60",
+    "name": "Щедрина Жанна Прокловна",
+    "telephone": "2813",
+    "position": "accountant"
+  },
+  {
+    "code": "61",
+    "name": "Климов Саввелий Глебович",
+    "telephone": "823821",
+    "position": "accountant"
+  },
+  {
+    "code": "62",
+    "name": "Рунова Ефросиния Самсоновна",
+    "telephone": "4586184",
+    "position": "accountant"
+  },
+  {
+    "code": "63",
+    "name": "Алифанова Всеслава Самуиловна",
+    "telephone": "4790608",
+    "position": "accountant"
+  },
+  {
+    "code": "64",
+    "name": "Князев Захар Адрианович",
+    "telephone": "291170",
+    "position": "accountant"
+  },
+  {
+    "code": "65",
+    "name": "Цорна Фаина Феодосьевна",
+    "telephone": "0471869",
+    "position": "accountant"
+  },
+  {
+    "code": "66",
+    "name": "Грызлов Фома Измаилович",
+    "telephone": "73008",
+    "position": "accountant"
+  },
+  {
+    "code": "67",
+    "name": "Бобылева Кира Эдуардовна",
+    "telephone": "792984",
+    "position": "accountant"
+  },
+  {
+    "code": "68",
+    "name": "Чичканов Наум Евстафиевич",
+    "telephone": "6505963",
+    "position": "accountant"
+  },
+  {
+    "code": "69",
+    "name": "Рытова Антонина Евграфовна",
+    "telephone": "8013491",
+    "position": "accountant"
+  },
+  {
+    "code": "70",
+    "name": "Хлебов Федор Родионович",
+    "telephone": "244000",
+    "position": "accountant"
+  },
+  {
+    "code": "71",
+    "name": "Кирилловский Ипполит Никитевич",
+    "telephone": "75983",
+    "position": "accountant"
+  },
+  {
+    "code": "72",
+    "name": "Курганова Наталья Платоновна",
+    "telephone": "330044000",
+    "position": "accountant"
+  },
+  {
+    "code": "73",
+    "name": "Дуболазов Прокл Федосиевич",
+    "telephone": "7790000",
+    "position": "accountant"
+  },
+  {
+    "code": "74",
+    "name": "Юматова Любовь Брониславовна",
+    "telephone": "516220",
+    "position": "accountant"
+  },
+  {
+    "code": "75",
+    "name": "Чалый Харитон Юриевич",
+    "telephone": "1423000",
+    "position": "accountant"
+  },
+  {
+    "code": "76",
+    "name": "Кочкорбаева Ефросинья Елисеевна",
+    "telephone": "08659",
+    "position": "accountant"
+  }
+
+]
